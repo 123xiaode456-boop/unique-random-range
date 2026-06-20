@@ -38,7 +38,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/IonicaBizau/unique-random-range.git"
+    "url": "git+https://github.com/IonicaBizau/unique-random-range.git"
   },
   "bugs": {
     "url": "https://github.com/IonicaBizau/unique-random-range/issues"
